@@ -3,8 +3,7 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h2>Hi! it's Mohsen</h2>
-    <h1>I am a front-end web developer</h1>
-    <h2>I build web interfaces</h2>
+    <h1>About me</h1>
+    <p>I’m good enough, I’m smart enough, and gosh darn it, people like me!</p>
   </Layout>
 )
